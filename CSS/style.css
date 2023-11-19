@@ -1,0 +1,165 @@
+body {
+    height: 3000;
+}
+.Main {
+    height: 860;
+    border: 5px solid gray;
+    background-color: blanchedalmond;
+    overflow: auto;
+}
+.D1 {
+    width: 400px;
+    height: 635px;
+    background-image: url("../images/D1.jpg");
+    background-size: cover;
+    float: left;
+    text-align: center;  
+    margin-left: 150;
+    margin-top: 100
+}
+.D2 {
+    width: 400px;
+    height: 635px;
+    background-image: url("../images/D2.jpg");
+    background-size: cover;
+    float: left;
+    text-align: center;
+    margin-left: 200;
+    margin-top: 100;
+}
+.D3 {
+    width: 400px;
+    height: 635px;
+    background-image: url("../images/D3.jpg");
+    background-size: cover;
+    float: left;
+    text-align: center;
+    margin-left: 200;
+    margin-top: 100;
+}
+.D1H2 {
+    font-family: fantasy;
+    color: antiquewhite;
+    font-size: 50px;
+}
+.D2H2 {
+    font-family: fantasy;
+    color: antiquewhite;
+    font-size: 50px;
+}
+.D3H2 {
+    font-family: fantasy;
+    color: antiquewhite;
+    font-size: 50px;
+}
+.D1B1 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color:  rgb(1, 20, 20);
+    font-size: 25px;
+    border-radius: 10px;
+    width: 150px;
+    height: 50px;
+    display: block;
+    margin: 30 100 100 132;
+}
+.D2B1 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(1, 20, 20);
+    font-size: 25px;
+    border-radius: 10px;
+    width: 150px;
+    height: 50px;
+    display: block;
+    margin: 30 100 100 132;
+}
+.D3B1 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(1, 20, 20);
+    font-size: 25px;
+    border-radius: 10px;
+    width: 150px;
+    height: 50px;
+    display: block;
+    margin: 30 100 100 132;
+}
+.D1:hover {
+    background-image: url("../images/D1Over.jpg");   
+}
+.D2:hover {
+    background-image: url("../images/D2Over.jpg");   
+}
+.D3:hover {
+    background-image: url("../images/D3Over.jpg");   
+}
+.D1B1:hover {
+    width: 200;
+    height: 100;
+    background-image: url("../images/D1B1O.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    font-size: 0;
+    display: block;
+    margin: 10 100 100 102;
+}
+.D2B1:hover {
+    width: 200;
+    height: 100;
+    background-image: url("../images/D2B1O.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    font-size: 0;
+    display: block;
+    margin: 10 100 100 102;
+}
+.D3B1:hover {
+    width: 200;
+    height: 100;
+    background-image: url("../images/D3B1O.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    font-size: 0;
+    display: block;
+    margin: 10 100 100 102;
+}
+.D1H2:hover {
+    color: black;
+}
+.D2H2:hover {
+    color: black;
+}
+.D3H2:hover {
+    color: black;
+}
+.TAG1 {
+    font-size: 25px;
+    color: white;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.TAG2 {
+    font-size: 25px;
+    color: white;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.TAG3 {
+    font-size: 25px;
+    color: white;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.TAG1:hover {
+    color: black;
+    background-color: bisque;
+}
+.TAG2:hover {
+    color: blue;
+    background-color: bisque;
+}
+.TAG3:hover {
+    color: brown;
+    background-color: bisque;
+}
